@@ -17,7 +17,7 @@ namespace CricStats.Controllers
         }
         public ActionResult Welcome()
         {
-            ViewBag.Message = "Imran Khan";
+            ViewBag.Message = "Imran Khan (PM)";
             return View();
         }
     }
